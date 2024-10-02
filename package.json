@@ -1,0 +1,16 @@
+{
+  "name": "web-portfolio",
+  "version": "1.0.0",
+  "description": "Lab task 2. This is a portfolio website using HTML and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^16.9.0",
+    "stylelint-config-standard": "^36.0.1"
+  }
+}
